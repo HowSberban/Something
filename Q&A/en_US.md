@@ -33,7 +33,7 @@ Version numbers follow the format **x.y.z**:
 4. **caramelChat (IME mod)**  
    Windows users can skip.  
    Some Linux and macOS systems are incompatible and may freeze. Please remove if needed.  
-   You can check the mod’s GitHub page for system configuration.  
+   You can check the mod’s [GitHub page](https://github.com/LemonCaramel/caramelChat) for system configuration.  
 
 ### Q&A
 - **Q: Why use DistantHorizons instead of Voxy?**  
