@@ -4,4 +4,4 @@ You are welcome to open any issues.
 This repository is currently mainly used for the Minecraft **BasicOptimized** modpack.  
 Watch "Q&A" for more information about the modpack.  
 ### Download the modpack:  
-[![Modrinth](https://modrinth.com/logo.png)](https://modrinth.com/modpack/basicoptimized)
+[![Modrinth](img-modrinth)](https://modrinth.com/modpack/basicoptimized)
