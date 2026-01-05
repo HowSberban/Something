@@ -8,15 +8,8 @@ Includes basic optimizations and partial OptiFine features, making the game more
 - Recommended: Install Java 25, since Minecraft versions after **26.1-snapshot-1** require Java 25.  
 - If you are on mobile and encounter issues, please troubleshoot on your own.
 
-## Installation
-Drag the modpack (**BasicOptimized 1.21.11 1.0.0**) directly into your launcher window.  
->> If dragging doesn’t work, install manually:  
-- **PCL2**: Download → Modpack → Install existing modpack  
-- **HMCL**: Download → Modpack → Install modpack → Import local modpack  
-- Other launchers are generally similar.
-
 ## Mod Notes
->> If you don’t understand or know how to use a mod, check [MCBBS Wiki](https://www.mcmod.cn).  
+>> If you don’t understand or know how to use a mod, check [Modrinth](https://modrinth.com).  
 
 1. **C2ME (Chunk optimization)**  
    Requires Java 22 or above.  
@@ -37,7 +30,7 @@ Drag the modpack (**BasicOptimized 1.21.11 1.0.0**) directly into your launcher 
    Some Linux and macOS systems are incompatible and may freeze. Please remove if needed.  
    You can check the mod’s GitHub page for system configuration.  
 
-### QA
+### Q&A
 - **Q: Why use DistantHorizons instead of Voxy?**  
   **A:** Voxy currently does not support most features of DistantHorizons, which can be inconvenient for beginners.  
 
