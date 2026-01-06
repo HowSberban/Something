@@ -1,3 +1,8 @@
+**简体中文**  [English](https://github.com/HowSberban/Something/blob/main/Q%26A/en.US.md)
+
+# 欢迎来到Q&A
+  大多数内容都会列在这里。
+
 ## 废话介绍
 包含基础优化及 OptiFine 部分功能，让你玩的比较舒服的整合包。  
 版本号格式为x.y.z:  
