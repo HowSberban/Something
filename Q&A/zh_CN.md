@@ -1,4 +1,4 @@
-**简体中文**  [English](https://github.com/HowSberban/Something/blob/main/Q%26A/en.US.md)
+**简体中文**  [English](https://github.com/HowSberban/Something/blob/main/Q%26A/en_US.md)
 
 # 欢迎来到Q&A
   大多数内容都会列在这里。
