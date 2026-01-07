@@ -5,11 +5,7 @@
 
 ## Introduction
 Includes basic optimizations and partial OptiFine features, making the game more comfortable to play.  
-Version numbers follow the format **x.y.z**:  
-- If the Minecraft version is updated, the version number will not be reset.  
-- **x** = Major changes.   
-- **y** = Minor changes.  
-- **z** = Bug fixes or mod updates.
+Version numbers follow the format **Year.Month.Day**(like 26.01.04).
 
 ## Requirements
 - Java 22 or above  
