@@ -1,6 +1,5 @@
 version:4671
 ao:true
-biomeBlendRadius:2
 enableVsync:false
 entityShadows:false
 japaneseGlyphVariants:false
