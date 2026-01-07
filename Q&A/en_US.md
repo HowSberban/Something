@@ -21,7 +21,8 @@ Version numbers follow the format **Year.Month.Day**(like 26.01.04).
    Requires Java 22 or above.  
 
 2. **ViaFabricPlus (Version translation)**  
-   Since the game version is too new, ViaFabricPlus is included to allow playing on older servers.  
+   Since the game version is too new, ViaFabricPlus is included to allow playing on older servers (modpacks that include this mod are usually released as Beta versions
+).  
    However, this is unfriendly to low-performance devices (version translation consumes CPU).  
    If servers requiring version translation are too laggy, please play on the corresponding Minecraft version instead.  
 
