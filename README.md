@@ -1,8 +1,6 @@
 <div align="center">
 <h1>Basic Optimized</h1>
   <h3><em>一个平衡性能与功能的整合包</em></h3>
-
-[![Modrinth](https://img.shields.io/badge/Modrinth-下载-00AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/basicoptimized)
 </div>
 
 ## 📖 简介
@@ -17,7 +15,7 @@
 
 ## 🤔 你有疑问？
 - 查看 [Q&A](https://github.com/HowSberban/Something/blob/main/Q%26A/zh_CN.md)
-- 提交 **issues**
+- 提交 [issues](https://github.com/HowSberban/Something/issues/new)
 
 ## 关于赞助
 **请赞助给那些模组开发者，而不是我！**
@@ -39,8 +37,6 @@
 <div align="center">
 <h1>Basic Optimized</h1>
   <h3><em>A Balanced Minecraft Modpack</em></h3>
-
-[![Modrinth](https://img.shields.io/badge/Modrinth-Download-00AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/basicoptimized)
 </div>
 
 ## 📖 Introduction
@@ -55,10 +51,10 @@
 
 ## 🤔 Questions?
 - Check the [Q&A](https://github.com/HowSberban/Something/blob/main/Q%26A/en_US.md)
-- Submit **issues**
+- Submit [issues](https://github.com/HowSberban/Something/issues/new)
 
 ## About Sponsorship
-### Please sponsor the original mod developers instead of me!
+**Please sponsor the original mod developers instead of me!**
 
 # ⬇️ Other Optimization Modpacks
 - If this one isn't right for you, here are some alternatives.
