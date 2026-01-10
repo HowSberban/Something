@@ -51,7 +51,10 @@ Version numbers follow the format **Year.Month.Day**(like 26.01.04).
 
 - **Q: Why not add FerriteCore?**  
   **A:** Its memory optimization is aggressive, intended for severely memory-limited systems.  
-  Unless allocated memory is below 2GB, optimization is negligible and FPS may drop.  
+  Unless allocated memory is below 2GB, optimization is negligible and FPS may drop.
+
+- Other Q&A:
+  I'm writing!!!
 
 ## Resource Pack Notes
 Includes two resource packs, both for mod localization.  
@@ -63,5 +66,6 @@ Includes two resource packs, both for mod localization.
 - **C (Hold)** – Zoom in  
 - **O** – Shader selection menu  
 - **K** – Enable/disable shaders  
-- **R** – Reload shaders  
+- **R** – Reload shaders
+- **Middle mouse button** - Sort items
 - Other keys follow vanilla settings
