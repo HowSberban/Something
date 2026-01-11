@@ -85,8 +85,8 @@
 - Check the [Q&A](https://github.com/HowSberban/Something/blob/main/Q%26A/en_US.md)
 - Submit [issues](https://github.com/HowSberban/Something/issues/new)
 
-## About Sponsorship
-**Please sponsor the original mod developers instead of me!**
+## About Donations
+**Please donate the original mod developers, NOT me!**
 
 # ⬇️ Other Optimization Modpacks
 - If this one isn't right for you, here are some alternatives.
