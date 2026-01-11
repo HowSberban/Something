@@ -89,7 +89,7 @@
 **Please donate the original mod developers, NOT me!**
 
 # ⬇️ Other Optimization Modpacks
-- If this one isn't right for you, here are some alternatives.
+- If this one isn't right for you, here are others.
 
 [![Modrinth](https://img.shields.io/badge/Modrinth-GD656_Ultimate_Optimized-00AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/656youhua) 
 [![Modrinth](https://img.shields.io/badge/Modrinth-Rapid_Optimization-00AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/rapid_optimization)  
