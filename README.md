@@ -1,6 +1,8 @@
 <div align="center">
 <h1>Basic Optimized</h1>
   <h3><em>一个平衡性能与功能的整合包</em></h3>
+
+[![Modrinth](https://img.shields.io/badge/Modrinth-下载-00AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/basicoptimized) 
 </div>
 
 ## 📖 简介
@@ -50,6 +52,8 @@
 <div align="center">
 <h1>Basic Optimized</h1>
   <h3><em>A Balanced Minecraft Modpack</em></h3>
+
+[![Modrinth](https://img.shields.io/badge/Modrinth-Download-00AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/basicoptimized) 
 </div>
 
 ## 📖 Introduction
