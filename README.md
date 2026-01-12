@@ -78,7 +78,7 @@
 ## ✨ Key Features
 
 - Includes essential optimization mods found in other packs, but removes overly aggressive performance tweaks to improve stability.
-- Adds quality-of-life mods to enhance the experience, such as Client Sorts (inventory sorting), Distant Horizons (enabled by default), Mouse Tweaks (mouse gestures), and more.
+- Adds quality-of-life mods to enhance the experience, such as Client Sorts (inventory sorting), Distant Horizons (disabled by default), Mouse Tweaks (mouse gestures), and more.
 - A comfortable user experience to everyone (e.g., caramelChat for improved IME support).
 
 ## 🤔 Questions?
