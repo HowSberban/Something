@@ -46,7 +46,6 @@ Version numbers follow the format **Year.Month.Day**(like 26.01.04).
 
 - **Q: Why not add Krypton?**  
   **A:** Krypton is a server-side network stack optimization mod.  
-  Testing shows that installing it on both server and client causes random packet loss.  
   With few players in simple LAN play, optimization effects are negligible.  
 
 - **Q: Why not add FerriteCore?**  
