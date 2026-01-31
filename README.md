@@ -15,14 +15,15 @@
 - CPU：i7-8700K
 - GPU：GTX1080
 - 内存频率3000MHz，分配2G
-- 同一存档
+- 同一存档，32视距
 
 ### 平均帧数情况：
 |整合包|加载地形时|地形加载完成后|四处转动时|
-|--------|------|----------|------|
-|该整合包|~59|~237|~183|
+|---------|------|----------|------|
 |难以置信的优化|~55|~159|~117|
 |快速优化|~301|~285|~264|
+|该整合包(26.01.31之前)|~59|~237|~183|
+|该整合包|~170|~272|~229|
 
 ## ✨ 主要特色
 
@@ -66,14 +67,16 @@
 - CPU：i7-8700K
 - GPU：GTX1080
 - Memory frequency 3000MHz, allocate 2GB
-- The same save file
+- The same save file, 32 view distances
 
 ### Average FPS：
 |Modpacks|Loading terrain|After Loading terrain|When turning around|
-|--------|--------|------------|-------|
+|---------|--------|------------|-------|
 |This Modpack|~59|~237|~183|
 |Fabulously Optimized|~55|~159|~117|
 |Rapid Optimization|~301|~285|~264|
+|This modpack(before 26.01.31)|~59|~237|~183|
+|This modpack|~170|~272|~229|
 
 ## ✨ Key Features
 
